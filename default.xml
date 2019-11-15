@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote fetch="github:liuxk99/" name="github" />
+
+    <default remote="github" revision="master" />
+
+    <project remote= "github" name="attendance-app.git" path="app" />
+    <project name="attendance-project.git" path="." />
+
+</manifest>
