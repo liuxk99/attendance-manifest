@@ -6,5 +6,6 @@
 
     <project remote= "github" name="attendance-app.git" path="app" />
     <project name="attendance-project.git" path="." />
+    <project name="attendance-bl.git" path="business-logic" />
 
 </manifest>
