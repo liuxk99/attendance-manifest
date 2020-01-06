@@ -8,5 +8,6 @@
     <project name="attendance-project.git" path="." />
     <project name="attendance-bl.git" path="business-logic" />
     <project name="libCalendar.git" path="libCalendar" />
+    <project name="utils4j.git" path="utils4j" />
 
 </manifest>
