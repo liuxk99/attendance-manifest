@@ -10,6 +10,7 @@
     <project name="attendance-provider.git" path="provider" />
 
     <project name="libCalendar.git" path="libCalendar" />
+    <project name="sjTime.git" path="libTime" />
     <project name="utils4j.git" path="utils4j" />
     <project name="utils4a.git" path="utils4a" />
 
